@@ -1,4 +1,4 @@
-name: twenty
+version: '3.8'
 
 services:
   server:
